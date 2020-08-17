@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm seeking employment, but you can call me Tyler.
 
-(___)
+___
 
 <!--
 **tkmoney11/tkmoney11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
