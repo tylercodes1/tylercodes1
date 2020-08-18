@@ -15,8 +15,7 @@
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Android Studio" height="30px" src="https://qph.fs.quoracdn.net/main-qimg-4e747c82368d9681b75d54f56319dae7.webp
-" />
+<img align="left" alt="Android Studio" height="30px" src="https://qph.fs.quoracdn.net/main-qimg-4e747c82368d9681b75d54f56319dae7.webp" />
 <img align="left" alt="Flutter" height="30px" src="https://static1.squarespace.com/static/5bfc5934c3c16a56bb3901a5/5d31725106b158000163b02b/5d7f6ef478e10150b419dfc0/1588251161238/logo_flutter_1080px_clr.png?format=1500w" />
 <img align="left" alt="Dart" height="30px" src="https://i.pinimg.com/originals/ce/d4/7b/ced47b85fb74b40506ed4007b960a0d5.png" />
 <img align="left" alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
