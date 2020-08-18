@@ -37,6 +37,11 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+  <br />  
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
