@@ -1,4 +1,4 @@
-### Hi there 👋 I'm seeking employment, but you can call me Tyler
+### Hi there 👋 I'm seeking employment, but you can call me <span style="color:red">Tyler</span>
 
 
 ## I'm a Developer, Musician, and Student of Life!
