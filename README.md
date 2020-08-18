@@ -33,6 +33,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.tkmoney11.vercel.app/api?username=tkmoney11&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.tkmoney11.vercel.app/api?username=tkmoney11&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
 
 </details>
