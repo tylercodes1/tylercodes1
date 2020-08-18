@@ -4,8 +4,7 @@ ___
 
 ## [Portfolio](https://tylersportfolio.netlify.app/)
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--
 **tkmoney11/tkmoney11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +21,4 @@ Here are some ideas to get you started:
 -->
 
 [website]: https://codeSTACKr.com
+[linkedin]: https://www.linkedin.com/in/tylerkim11/
