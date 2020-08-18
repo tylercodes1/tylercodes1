@@ -17,10 +17,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tylerkim@outlook.com?subject=[GitHub]%20Inquiry%20Here)
 
-[website]: https://tylersportfolio.netlify.app/
-[linkedin]: https://www.linkedin.com/in/tylerkim11/
-
-
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android Studio" height="30px" src="https://qph.fs.quoracdn.net/main-qimg-4e747c82368d9681b75d54f56319dae7.webp" />
@@ -60,6 +56,9 @@
   <br />
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmoney11&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-  
+  _via [anuraghazra][readme_stats]_
 </details>
 
+[readme_stats]: https://github.com/anuraghazra/github-readme-stats
+[website]: https://tylersportfolio.netlify.app/
+[linkedin]: https://www.linkedin.com/in/tylerkim11/
