@@ -4,7 +4,7 @@
 - :leaves: I’m currently a software engineer intern at Aloe Money, a Seattle Based University Startup!
 - :books: I’m currently learning everything 🤣
 - :chart_with_upwards_trend: 2020 Goals: Finish my passion projects and join an open-source project
-- :guitar::violin::musical_score: Fun fact: I love to play guitar and violin
+- :musical_score: Fun fact: I love to play guitar and violin
 
 
 ### Connect with me!
