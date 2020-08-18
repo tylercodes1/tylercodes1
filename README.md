@@ -1,5 +1,4 @@
-### Hi there 👋 I'm seeking employment, but you can call me <span style="color:red">Tyler</span>
-<span style="color:red">cardinals</span>
+### Hi there 👋 I'm seeking employment, but you can call me Tyler
 
 
 ## I'm a Developer, Musician, and Student of Life!
