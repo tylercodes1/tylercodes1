@@ -9,6 +9,10 @@
 
 <br />
 
+### Spotify Playing 🎧
+[<img src="https://spotify-for-github.tkmoney11.vercel.app/api/spotify-playing" alt="tkmoney11 Spotify Playing" width="350" />](https://open.spotify.com/user/1248296329?si=Z4LMpcWSTLO37E7PNZTxcw)
+
+
 ### Connect with me!
 [<img align="left" alt="tylersportfolio.netlify.app/" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="blue" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
