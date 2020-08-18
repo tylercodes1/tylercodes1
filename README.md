@@ -10,7 +10,6 @@
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-for-github.tkmoney11.vercel.app/api/spotify-playing" alt="tkmoney11 Spotify Playing" width="350" />](https://open.spotify.com/user/1248296329?si=Z4LMpcWSTLO37E7PNZTxcw)
-<br />
 _via [novatorem][spotify_for_github]_
 
 
