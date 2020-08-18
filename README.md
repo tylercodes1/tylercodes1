@@ -1,11 +1,10 @@
 ## Hi there 👋 I'm seeking employment, but you can call me Tyler
 
 ## I'm a Developer, Musician, and Student of Life!
-- :aloe: I’m currently a software engineer intern at Aloe Money, a Seattle Based University Startup!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- :leaves: I’m currently a software engineer intern at Aloe Money, a Seattle Based University Startup!
+- :books: I’m currently learning everything 🤣
+- :chart_with_upwards_trend: 2020 Goals: Finish my passion projects and join an open-source project
+- :guitar::violin::musical_score: Fun fact: I love to play guitar and violin
 
 
 ### Connect with me!
