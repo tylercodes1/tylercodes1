@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm seeking employment, but you can call me Tyler
 
-<br />
-<br />
 
 ## I'm a Developer, Musician, and Student of Life!
 - :leaves: I’m currently a software engineer intern at Aloe Money, a Seattle Based University Startup!
