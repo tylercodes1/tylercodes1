@@ -14,5 +14,5 @@
 
 
 ### Languages and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://static1.squarespace.com/static/5bfc5934c3c16a56bb3901a5/5d31725106b158000163b02b/5d7f6ef478e10150b419dfc0/1588251161238/logo_flutter_1080px_clr.png?format=1500w" />
