@@ -1,4 +1,4 @@
-## Hi there 👋 I'm seeking employment, but you can call me Tyler
+### Hi there 👋 I'm seeking employment, but you can call me Tyler
 
 
 ## I'm a Developer, Musician, and Student of Life!
@@ -33,11 +33,6 @@
 <img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ---
 
