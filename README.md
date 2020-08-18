@@ -1,9 +1,7 @@
 ## Hi there 👋 I'm seeking employment, but you can call me Tyler
 
 ### Connect with me!
-
-[<svg alt="codeSTACKr.com" width="22px" xmlns="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" fill=#3fabad />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="blue" />][website]
+[<img align="left" alt="tylersportfolio.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="blue" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
