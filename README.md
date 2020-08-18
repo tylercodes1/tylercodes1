@@ -3,8 +3,7 @@
 ___
 
 ## [Portfolio](https://tylersportfolio.netlify.app/)
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/LinkedIn.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <!--
 **tkmoney11/tkmoney11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
