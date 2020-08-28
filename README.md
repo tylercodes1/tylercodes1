@@ -6,6 +6,7 @@
 - :books: I’m currently learning everything 🤣
 - :chart_with_upwards_trend: 2020 Goals: Finish my passion projects and join an open-source project
 - :musical_score: Fun fact: I love to play guitar and violin
+- :leaves: Another fun fact: I'm currently completing foorbar.withgoogle!
 
 
 ### Spotify Playing 🎧
