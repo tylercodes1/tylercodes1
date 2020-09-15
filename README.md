@@ -2,7 +2,7 @@
 
 
 ## I'm a Developer, Musician, and Student of Life!
-- :leaves: I’m currently a software engineer intern at Aloe Money, a Seattle Based University Startup!
+- :leaves: I’m currently a software engineer intern at Aloe Money, a Seattle-Based, University Startup!
 - :books: I’m currently learning everything 🤣
 - :chart_with_upwards_trend: 2020 Goals: Finish my passion projects and join an open-source project
 - :musical_score: Fun fact: I love to play guitar and violin
