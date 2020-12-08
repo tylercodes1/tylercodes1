@@ -1,6 +1,3 @@
-### Hi there 👋 I'm seeking employment, but you can call me Tyler
-
-
 ## I'm a Developer, Musician, and Student of Life!
 - :leaves: I’m currently a software engineer at Revature!
 - :books: I’m currently learning everything 🤣
