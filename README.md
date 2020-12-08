@@ -45,7 +45,7 @@ _via [novatorem][spotify_for_github]_
   
   <br />
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.tkmoney11.vercel.app/api?username=tkmoney11&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.tkmoney11.vercel.app/api?username=tylercodes1&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby" />
   
   <br />
   <br />
@@ -58,7 +58,7 @@ _via [novatorem][spotify_for_github]_
   <br />
   <br />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmoney11&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylercodes1&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
   _via [anuraghazra][readme_stats]_
 </details>
 
