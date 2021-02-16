@@ -1,16 +1,18 @@
 ## I'm a Developer, Musician, and Student of Life!
 <details>
-  <summary>Role: icon</summary>
-  _Glossary of Roles-to-icons_
-  Front-End Dev: 
-  Back-End Dev:  
-  Designer:
-  Scrum Master:
-  Team Lead:
+  <summary>:book: Role Glossary</summary>
   
+  | Role          |        Icon         |
+  | ------------- | ------------------- |
+  | Front-End Dev | :star:              |
+  | Back-End Dev  | :floppy_disk:       |
+  | Designer:     | :art:               |
+  | Scrum Master: | :man_office_worker: |
+  | Team Lead:    | :nerd_face:         |
 </details>
+
 - Things I'm working on in 2021:
-  - Message Service
+  - Message App w/ Microservices :star::floppy_disk::man_office_worker::nerd_face: (Personal Project)
 
 
 ### Spotify Playing 🎧
