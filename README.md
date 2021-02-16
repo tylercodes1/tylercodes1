@@ -1,9 +1,16 @@
 ## I'm a Developer, Musician, and Student of Life!
-- :leaves: I’m currently a software engineer at Revature!
-- :books: I’m currently learning everything 🤣
-- :chart_with_upwards_trend: 2020 Goals: Finish my passion projects and join an open-source project
-- :musical_score: Fun fact: I love to play guitar and violin
-- :leaves: Another fun fact: I **completed** foorbar.withgoogle!
+<details>
+  <summary>Role: icon</summary>
+  _Glossary of Roles-to-icons_
+  Front-End Dev: 
+  Back-End Dev:  
+  Designer:
+  Scrum Master:
+  Team Lead:
+  
+</details>
+- Things I'm working on in 2021:
+  - Message Service
 
 
 ### Spotify Playing 🎧
