@@ -6,9 +6,9 @@
   | ------------- | ------------------- |
   | Front-End Dev | :star:              |
   | Back-End Dev  | :floppy_disk:       |
-  | Designer:     | :art:               |
-  | Scrum Master: | :man_office_worker: |
-  | Team Lead:    | :nerd_face:         |
+  | Designer      | :art:               |
+  | Scrum Master  | :man_office_worker: |
+  | Team Lead     | :nerd_face:         |
 </details>
 
 ### Personal Projects I'm working on in 2021:
