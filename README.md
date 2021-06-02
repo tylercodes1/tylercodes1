@@ -11,7 +11,7 @@
   | Team Lead     | :nerd_face:         |
 </details>
 
-### Personal Projects I'm working on in 2021:
+### Personal Projects 2021:
 1. Message App w/ Microservices :star::floppy_disk::man_office_worker::nerd_face:
 
 
