@@ -14,6 +14,7 @@
 ### Personal Projects 2021:
 1. Message App w/ Microservices :star::floppy_disk::man_office_worker::nerd_face:
 2. Whiteboarding Strategies Website
+3. Learning Haskell
 
 
 ### Spotify Playing 🎧
