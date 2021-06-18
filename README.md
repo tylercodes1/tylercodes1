@@ -13,9 +13,10 @@
 
 ### Personal Projects 2021:
 1. Message App w/ Microservices :star::floppy_disk::man_office_worker::nerd_face: _PAUSED_
-2. Message App w/ Monolith
-3. Whiteboarding Strategies Website
-4. Learning Haskell
+2. [Message App (Frontend)][message-app]
+3. [Message App API (Monolith Backend)][message-app-documentation]
+4. Whiteboarding Strategies Website
+5. Learning Haskell
 
 
 ### Spotify Playing 🎧
@@ -74,3 +75,7 @@ _via [novatorem][spotify_for_github]_
 [website]: https://tylersportfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/tylerkim11/
 [spotify_for_github]: https://github.com/novatorem/novatorem
+[message-app]: https://fullstack-messaging-app.netlify.app/
+[message-app-documentation]: http://monolith-service.herokuapp.com/swagger-ui/index.html#/
+
+
