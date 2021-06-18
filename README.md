@@ -12,11 +12,10 @@
 </details>
 
 ### Personal Projects 2021:
-1. Message App w/ Microservices :star::floppy_disk::man_office_worker::nerd_face: _PAUSED_
-2. [Message App (Frontend)][message-app]
-3. [Message App API (Monolith Backend)][message-app-documentation]
-4. Whiteboarding Strategies Website
-5. Learning Haskell
+1. [Message App (Frontend)][message-app]
+2. [Message App API (Monolith Backend)][message-app-documentation]
+3. Whiteboarding Strategies Website
+4. Learning Haskell
 
 
 ### Spotify Playing 🎧
