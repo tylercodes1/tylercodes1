@@ -1,5 +1,5 @@
 ## I'm a Developer, Musician, and Student of Life!
-<details>
+<!-- <details>
   <summary>:book: Role Glossary</summary>
   
   | Role          |        Icon         |
@@ -10,7 +10,7 @@
   | Scrum Master  | :man_office_worker: |
   | Team Lead     | :nerd_face:         |
 </details>
-
+ -->
 ### Personal Projects 2021:
 1. [Message App (Frontend)][message-app]
 2. [Message App API (Monolith Backend)][message-app-documentation]
