@@ -15,7 +15,7 @@
 1. [Message App (Frontend)][message-app]
 2. [Message App API (Monolith Backend)][message-app-documentation]
 3. Whiteboarding Strategies Website
-4. Learning Haskell
+4. [Learning Haskell][learning-haskell]
 
 
 ### Spotify Playing 🎧
@@ -74,5 +74,4 @@ _via [novatorem][spotify_for_github]_
 [spotify_for_github]: https://github.com/novatorem/novatorem
 [message-app]: https://fullstack-messaging-app.netlify.app/
 [message-app-documentation]: http://monolith-service.herokuapp.com/swagger-ui/index.html#/
-
-
+[learning-haskell]: https://github.com/tylercodes1/haskell-basics
