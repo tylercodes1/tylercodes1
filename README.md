@@ -14,8 +14,7 @@
 ### Personal Projects 2021:
 1. [Message App (Frontend)][message-app]
 2. [Message App API (Monolith Backend)][message-app-documentation]
-3. Whiteboarding Strategies Website
-4. [Learning Haskell][learning-haskell]
+3. [Learning Haskell][learning-haskell]
 
 
 ### Spotify Playing 🎧
