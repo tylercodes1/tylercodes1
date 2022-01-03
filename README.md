@@ -13,9 +13,11 @@
  -->
  <details>
 <summary><b>Personal Projects 2021:</b></summary>
+  
 1. [Message App (Frontend)][message-app]
 2. [Message App API (Monolith Backend)][message-app-documentation]
 3. [Learning Haskell][learning-haskell]
+
 </details>
 
 ### Spotify Playing 🎧
