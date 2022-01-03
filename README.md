@@ -11,11 +11,12 @@
   | Team Lead     | :nerd_face:         |
 </details>
  -->
-### Personal Projects 2021:
+ <details>
+<summary><b>Personal Projects 2021:</b></summary>
 1. [Message App (Frontend)][message-app]
 2. [Message App API (Monolith Backend)][message-app-documentation]
 3. [Learning Haskell][learning-haskell]
-
+</details>
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-for-github.tkmoney11.vercel.app/api/spotify-playing" alt="tkmoney11 Spotify Playing" width="350" />](https://open.spotify.com/user/1248296329?si=Z4LMpcWSTLO37E7PNZTxcw)
