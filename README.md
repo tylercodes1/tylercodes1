@@ -20,10 +20,6 @@
 
 </details>
 
-### Spotify Playing 🎧
-[<img src="https://spotify-for-github.tkmoney11.vercel.app/api/spotify-playing" alt="tkmoney11 Spotify Playing" width="350" />](https://open.spotify.com/user/1248296329?si=Z4LMpcWSTLO37E7PNZTxcw)
-_via [novatorem][spotify_for_github]_
-
 
 ### Connect with me!
 [<img align="left" alt="tylersportfolio.netlify.app/" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="blue" />][website]
@@ -31,7 +27,7 @@ _via [novatorem][spotify_for_github]_
 [<img width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:tylerkim@outlook.com?subject=[GitHub]%20Inquiry%20Here)
 
 [readme_stats]: https://github.com/anuraghazra/github-readme-stats
-[website]: https://tylersportfolio.netlify.app/
+[website]: https://www.tylerkim.dev/
 [linkedin]: https://www.linkedin.com/in/tylerkim11/
 [spotify_for_github]: https://github.com/novatorem/novatorem
 [message-app]: https://fullstack-messaging-app.netlify.app/
